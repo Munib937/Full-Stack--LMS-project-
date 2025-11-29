@@ -51,9 +51,9 @@ With the following software and hardware list you can run all code files present
 
 
 ### Related products <Other books you may enjoy>
-* ASP.NET Core 3 and React [[Packt]](https://www.packtpub.com/in/web-development/asp-net-core-3-and-react?utm_source=github&utm_medium=repository&utm_campaign=9781789950229) [[Amazon]](https://www.amazon.com/dp/1789950228)
+* ASP.NET Core 3 and React(https://www.packtpub.com/in/web-development/asp-net-core-3-and-react?utm_source=github&utm_medium=repository&utm_campaign=9781789950229) (https://www.amazon.com/dp/1789950228)
 
-* Hands-on Full-Stack Web Development with GraphQL and React [[Packt]](https://www.packtpub.com/web-development/hands-full-stack-web-development-graphql-and-react?utm_source=github&utm_medium=repository&utm_campaign=9781789134520) [[Amazon]](https://www.amazon.com/dp/1789134528)
+* Hands-on Full-Stack Web Development with GraphQL and React ](https://www.packtpub.com/web-development/hands-full-stack-web-development-graphql-and-react?utm_source=github&utm_medium=repository&utm_campaign=9781789134520(https://www.amazon.com/dp/1789134528)
 
 ## Get to Know the Author
 **Shama Hoque**
@@ -66,6 +66,7 @@ Currently, she makes web-based prototypes for R&D start-ups in California, while
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
 
 
 
