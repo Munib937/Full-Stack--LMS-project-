@@ -1,4 +1,4 @@
-# Full Stack React Projects - Second Edition
+# Full Stack React Projects
 
 
 <a href="https://www.packtpub.com/web-development/full-stack-react-projects-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781839215414"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839215414-original.jpeg" alt="Full-Stack React Projects - Second Edition" height="256px" align="right"></a>
@@ -66,4 +66,5 @@ Currently, she makes web-based prototypes for R&D start-ups in California, while
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
 
