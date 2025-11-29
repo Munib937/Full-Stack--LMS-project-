@@ -3,7 +3,7 @@
 
 <a href="https://www.packtpub.com/web-development/full-stack-react-projects-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781839215414"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839215414-original.jpeg" alt="Full-Stack React Projects - Second Edition" height="256px" align="right"></a>
 
-This is the code repository for [Full-Stack React Projects - Second Edition](https://www.packtpub.com/web-development/full-stack-react-projects-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781839215414), published by Packt.
+This is the code repository for [Full-Stack React Projects -](https://www.packtpub.com/web-development/full-stack-react-projects-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781839215414).
 
 **Learn MERN stack development by building modern web apps using MongoDB, Express, React, and Node.js**
 
@@ -66,5 +66,6 @@ Currently, she makes web-based prototypes for R&D start-ups in California, while
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
 
 
